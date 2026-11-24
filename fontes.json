@@ -1,0 +1,29 @@
+{
+  "sistema": "B2 Escalade",
+  "versao": "1.0.1",
+  "fontes": {
+    "usuarios": {
+      "link": "https://docs.google.com/spreadsheets/d/1_oNW-FnZAZZV4iZIHv69-TGy4ReFW_KUihknZ34dQCU/edit?usp=sharing",
+      "colunas": {
+        "usuario": "usuario",
+        "senha": "senha",
+        "ativo": "ativo"
+      }
+    },
+    "logo": {
+      "link": "https://drive.google.com/file/d/1RT4tb5CApB5_zc-93kWszuZHIfgSWG-U/view?usp=sharing"
+    },
+    "basesEscalade": [
+      "https://docs.google.com/spreadsheets/d/1QOqpRPr6jBfkt1QKDnQue_lxZknJRDuPP2YY1ExDuvY/edit?usp=sharing",
+      "https://docs.google.com/spreadsheets/d/1DKc5XOMK3aVRkbQyLpdiq2W0ZomdvG4l56wwk7XGZAg/edit?usp=sharing",
+      "https://docs.google.com/spreadsheets/d/1C_oK-6Ezw-djKxc9LKNRNnxE_0gUHfLr_OehPyPw0Iw/edit?usp=sharing",
+      "https://docs.google.com/spreadsheets/d/1ART-JCO-AFHOlziu2zVnlAk7Oh20E1Oqah_rL8eNdzw/edit?usp=sharing"
+    ]
+  },
+  "regras": {
+    "ajustes_valor_total": [
+      "COMMISSION_ADJUSTMENT",
+      "RAV_COMMISSION"
+    ]
+  }
+}
